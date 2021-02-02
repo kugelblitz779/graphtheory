@@ -1,3 +1,1 @@
-4
-4
-3
+bridge found ->1 2
